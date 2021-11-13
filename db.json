@@ -9,7 +9,16 @@
     {
         "id": 2,
         "name": "Bulo4ka",
-        "balance": 2
+        "balance": 2,
+        "name": "Alina",
+        "balance": 1000,
+        "age": 19
+    },
+    {
+        "id": 2,
+        "name": "Alina",
+        "balance": 1000,
+        "age": 19
     }
 ]
 }

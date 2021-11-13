@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+        "id": 1,
+        "name": "random",
+        "balance": 2500,
+        "age": 27
+    }
+]
+}

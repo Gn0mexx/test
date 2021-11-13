@@ -5,6 +5,18 @@
         "name": "random",
         "balance": 2500,
         "age": 27
+    },
+    {
+        "id": 2,
+        "name": "Alina",
+        "balance": 1000,
+        "age": 19
+    },
+    {
+        "id": 2,
+        "name": "Alina",
+        "balance": 1000,
+        "age": 19
     }
 ]
 }

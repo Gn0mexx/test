@@ -5,6 +5,11 @@
         "name": "random",
         "balance": 2500,
         "age": 27
+    },
+    {
+        "id": 2,
+        "name": "Bulo4ka",
+        "balance": 2
     }
 ]
 }
